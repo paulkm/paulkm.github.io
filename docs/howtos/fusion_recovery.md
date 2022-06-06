@@ -1,3 +1,5 @@
+[home](../../index.md)
+
 # The Situation
 A circa 2015 iMac suddenly became unbootable and the most recent time machine backup was not recent enough - I needed some data off of the drive.
 # The Process
